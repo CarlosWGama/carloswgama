@@ -7,19 +7,21 @@ Ainda trabalho com desenvolvimento de projetos de terceiros na própria institui
 
 
 ## Projetos
-Segue alguns projetos interessantes
+Segue alguns projetos desenvolvidos
 
 ##### Hobbies
-[Biblioteca PagSeguro](https://github.com/CarlosWGama/php-pagseguro "Biblioteca PagSeguro")
-[Biblioteca MoIP](https://github.com/CarlosWGama/php-moip "Biblioteca MoIP")
-[FCM - PHP](https://github.com/CarlosWGama/php-fcm "FCM - PHP")
-[OneSignal - PHP](https://github.com/CarlosWGama/php-onesignal "OneSignal - PHP")
+[Biblioteca PagSeguro](https://github.com/CarlosWGama/php-pagseguro "Biblioteca PagSeguro") |
+[Biblioteca MoIP](https://github.com/CarlosWGama/php-moip "Biblioteca MoIP") |
+[FCM - PHP](https://github.com/CarlosWGama/php-fcm "FCM - PHP") |
+[OneSignal - PHP](https://github.com/CarlosWGama/php-onesignal "OneSignal - PHP") |
 [Chatbot - React Native](https://github.com/CarlosWGama/react-native-chatbot "Chatbot - React Native")
 
 ##### Projetos no CESMAC
-[FicaBem](https://play.google.com/store/apps/details?id=br.com.sesau.ficabem "FicaBem")
-[PEP Idosos](https://github.com/CarlosWGama/idosos-app "PEP Idosos")
-[PalmTech](https://github.com/CarlosWGama/palmtech-app "PalmTech")
+[FicaBem](https://play.google.com/store/apps/details?id=br.com.sesau.ficabem "FicaBem") |
+[PEP Idosos](https://github.com/CarlosWGama/idosos-app "PEP Idosos") |
+[PalmTech](https://github.com/CarlosWGama/palmtech-app "PalmTech") |
 [Covid Assistente](https://github.com/CarlosWGama/covid19-assistente "Covid Assistente")
 
 Entre outros! Fique livre para explorar.
+
+Ou entrar em contato: carloswgama@gmail.com
